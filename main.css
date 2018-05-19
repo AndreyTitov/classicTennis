@@ -1,0 +1,8 @@
+body {
+    background: #000;
+}
+
+#gameCanvas {
+    margin-left: 50%;
+    transform: translate(-50%);
+}
